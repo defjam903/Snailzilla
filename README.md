@@ -1,2 +1,2 @@
-# Snailzilla
-Website for Snail Mail app
+# ZillaMail
+Website for Zilla  Mail app
